@@ -1,0 +1,40 @@
+[
+  {
+    "image": "../images/projects/leto-landing.jpg",
+    "title": "Leto-2.0",
+    "description": "Web application automating the entire software delivery practice by bridging the automation gaps between existing processes and tools without having to replace the inf rastructure.",
+    "tags": ["React JS", "Node", "Express", "MongoDB", "NPM", "Docker"],
+    "Role": "Lead UX Designer and Full stack developer"
+  },
+  {
+    "image": "../images/projects/mls-main.png",
+    "title": "Maritime Launch Services",
+    "description": "Website developed for Canada's First commercial spaceport. Drupal 8 site that uses parallax scrolling and animations to enhance visual experience.",
+    "tags": ["JavaScript", "PHP", "Sass", "Drupal", "Composer"],
+    "website": "https://pillai.xyz/word-game",
+    "Role": "Frontend and Backend developer"
+  },
+  {
+    "image": "../images/projects/halifax-main.png",
+    "title": "Halifax.ca",
+    "description": "Website providing Information about the Halifax Regional Municipality.",
+    "tags": ["JavaScript", "NPM", "Drupal", "Docker", "Pattern Lab"],
+    "Role": "Web Developer",
+    "github": "https://github.com/AmruthPillai/MutualFund-Investment-Calculator"
+  },
+  {
+    "image": "../images/projects/k-em.png",
+    "title": "Kaiser Estimation Model Tool",
+    "description": "An estimation model tool for Kaiser Permanente, which focuses on estimating and predicting the overall cost to implement projects through adaptive learning and achieving 95% accuracy with the actual data.",
+    "tags": ["AngularJS", "JavaScript", "SASS", "JIRA", "Rest API"], 
+    "website": "https://rxresu.me/",
+    "Role": "UI developer (Betsol)"
+  },
+  {
+    "image": "../images/projects/hr-tool.jpg",
+    "title": "Application Tracking System (HR Tool)",
+    "description": "Web application designed to manage HR administration which helped in recruitment as well as in maintaining employee information, benefits, payroll.",
+    "tags": ["Angular 2", "SASS"],
+    "Role": "UI Developer"
+  }
+]

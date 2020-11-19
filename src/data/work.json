@@ -1,0 +1,34 @@
+[
+  {
+    "icon": "../images/work/aptitude.png",
+    "title": "Aptitude Digital",
+    "subtitle": "Web Developer",
+    "period": "May '19 - current",
+    "location": "Halifax, NS, Canada",
+    "specialization": "Javascript"
+  },
+  {
+    "icon": "../images/work/betsol.png",
+    "title": "Betsol Software (India) Pvt. Ltd.",
+    "subtitle": "Associate Software Engineer",
+    "period": "July '17 - December '18",
+    "location": "Bengaluru, India",
+    "specialization": "React, Angular, Node"
+  },
+  {
+    "icon": "../images/work/betsol.png",
+    "title": "Betsol Software (India) Pvt. Ltd.",
+    "subtitle": "Full Stack Developer Intern",
+    "period": "Jan '17 - Mar '17",
+    "location": "Bengaluru, India",
+    "specialization": "Full Stack Javascript, AngularJS, Node, MongoDB"
+  },
+  {
+    "icon": "../images/work/MAgallery.png",
+    "title": "Mark Anthony Gallery",
+    "subtitle": "Visual Designer Intern",
+    "period": "Feb '19 - Apr '19",
+    "location": "Halifax, NS, Canada",
+    "specialization": "Adobe Photoshop CC, Adobe Illustrator CC"
+  }
+]
