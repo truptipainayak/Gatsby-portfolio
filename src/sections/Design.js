@@ -3,7 +3,7 @@ import GatsbyImage from "gatsby-image";
 import React from "react";
 import Button from "../components/Button";
 import Heading from "../components/Heading";
-import { FaDev, FaGithub, FaLink } from "../components/Icons";
+import { FaDev, FaLink, FaStar } from "../components/Icons";
 import styles from "./Design.module.css";
 import Tooltip from "@material-ui/core/Tooltip";
 import { OutboundLink } from "gatsby-plugin-google-analytics";
@@ -60,30 +60,7 @@ const Design = () => {
               <span className="sr-only">{node.title}</span>
             </OutboundLink>
             <h5 className="mt-4 font-semibold">{node.title}</h5>
-            <p className="mt-2 pb-5 text-sm text-justify">{node.description}</p>
-
-            <p className="pb-2 flex text-xs font-semibold">
-              {node.tags.map(x => (
-                <span key={x} className="mr-2">
-                  #{x}
-                </span>
-              ))}
-            </p>
-
             <div className="flex mt-2">
-              {node.website && (
-                <Tooltip title="Go to Website" placement="bottom">
-                  <OutboundLink
-                    href={node.website}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="px-2 mr-2 hover:text-primary-500"
-                  >
-                    <FaLink />
-                    <span className="sr-only">Go to Website</span>
-                  </OutboundLink>
-                </Tooltip>
-              )}
 
               {node.github && (
                 <Tooltip title="Go to GitHub Repo" placement="bottom">
@@ -93,8 +70,7 @@ const Design = () => {
                     rel="noopener noreferrer"
                     className="px-2 mr-2 hover:text-primary-500"
                   >
-                    <FaGithub />
-                    <span className="sr-only">Go to GitHub Repo</span>
+                    <span className="sr-only">Go to Graphic Design Folder</span>
                   </OutboundLink>
                 </Tooltip>
               )}
@@ -105,9 +81,9 @@ const Design = () => {
 
       <Button
         className="mt-6"
-        icon={FaGithub}
-        title="Projects on GitHub"
-        onClick={() => window.open("https://pillai.xyz/github", "_blank")}
+        icon={FaStar}
+        title="Graphic Design"
+        onClick={() => window.open("https://drive.google.com/drive/u/1/folders/1u0ksqfGAnZrhSvY7NLDKy-tPQE9IPZR6", "_blank")}
       />
     </section>
   );

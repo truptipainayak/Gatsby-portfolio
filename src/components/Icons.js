@@ -3,7 +3,6 @@ import {
   FaAngleRight,
   FaAward,
   FaBoxOpen,
-  FaDev,
   FaDribbble,
   FaFacebookF,
   FaGithub,
@@ -17,7 +16,9 @@ import {
   FaSignLanguage,
   FaStar,
   FaTwitter,
+  FaDev,
 } from "react-icons/fa";
+import { SiRedbubble, } from "react-icons/si";
 import { GoTools } from "react-icons/go";
 import {
   IoIosDocument,
@@ -69,4 +70,5 @@ export {
   MdPerson,
   MdSchool,
   MdWork,
+  SiRedbubble,
 };

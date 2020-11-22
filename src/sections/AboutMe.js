@@ -43,7 +43,7 @@ const AboutMe = () => {
             icon={IoIosDocument}
             title="Download Resume"
             onClick={() =>
-              window.open("https://drive.google.com/file/d/1-pJPObvVbhzfldNJdpgJJ5AtU0zxrd9Z/view?usp=sharing", "_blank")
+              window.open("https://drive.google.com/file/d/1U7rUf1zJqXnbEAsozBYpKtNQWQh2hdUb/view", "_blank")
             }
           />
       </div>

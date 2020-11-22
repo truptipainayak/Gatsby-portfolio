@@ -4,6 +4,7 @@
     "title": "Leto-2.0",
     "description": "Web application automating the entire software delivery practice by bridging the automation gaps between existing processes and tools without having to replace the inf rastructure.",
     "tags": ["React JS", "Node", "Express", "MongoDB", "NPM", "Docker"],
+    "website": "https://drive.google.com/drive/u/1/folders/1e-Iv0An7Uz8MQWlv0zaDfyDdIOWBQ-rW",
     "Role": "Lead UX Designer and Full stack developer"
   },
   {
@@ -11,7 +12,7 @@
     "title": "Maritime Launch Services",
     "description": "Website developed for Canada's First commercial spaceport. Drupal 8 site that uses parallax scrolling and animations to enhance visual experience.",
     "tags": ["JavaScript", "PHP", "Sass", "Drupal", "Composer"],
-    "website": "https://pillai.xyz/word-game",
+    "website": "https://www.maritimelaunch.com/",
     "Role": "Frontend and Backend developer"
   },
   {
@@ -20,14 +21,14 @@
     "description": "Website providing Information about the Halifax Regional Municipality.",
     "tags": ["JavaScript", "NPM", "Drupal", "Docker", "Pattern Lab"],
     "Role": "Web Developer",
-    "github": "https://github.com/AmruthPillai/MutualFund-Investment-Calculator"
+    "github": "https://www.halifax.ca/"
   },
   {
     "image": "../images/projects/k-em.png",
     "title": "Kaiser Estimation Model Tool",
     "description": "An estimation model tool for Kaiser Permanente, which focuses on estimating and predicting the overall cost to implement projects through adaptive learning and achieving 95% accuracy with the actual data.",
     "tags": ["AngularJS", "JavaScript", "SASS", "JIRA", "Rest API"], 
-    "website": "https://rxresu.me/",
+    "website": "https://drive.google.com/drive/u/1/folders/16ukGQ5KQcPOl-9xZ2byOR9gOWgVXKAAj",
     "Role": "UI developer (Betsol)"
   },
   {
