@@ -60,12 +60,6 @@ module.exports = {
         display: `swap`,
       },
     },
-    {
-      resolve: `gatsby-source-dribbble`,
-      options: {
-        access_token: process.env.DRIBBBLE_TOKEN,
-      },
-    },
     `gatsby-plugin-postcss`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,

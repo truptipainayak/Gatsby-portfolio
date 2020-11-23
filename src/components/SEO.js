@@ -3,7 +3,7 @@ import React from "react";
 import { Helmet } from "react-helmet";
 
 const SEO = () => {
-  const { site, file } = useStaticQuery(graphql`
+  const { site } = useStaticQuery(graphql`
     {
       site {
         siteMetadata {
@@ -12,16 +12,12 @@ const SEO = () => {
           author
         }
       }
-      file(relativePath: { eq: "share.png" }) {
-        publicURL
-      }
     }
   `);
 
   const title = site.siteMetadata.title;
   const description = site.siteMetadata.description;
   const author = site.siteMetadata.author;
-  const image = file.publicURL;
 
   return (
     <Helmet
@@ -46,10 +42,6 @@ const SEO = () => {
           content: `website`,
         },
         {
-          property: "og:image",
-          content: image,
-        },
-        {
           name: `twitter:card`,
           content: `summary`,
         },
@@ -64,11 +56,7 @@ const SEO = () => {
         {
           name: `twitter:description`,
           content: description,
-        },
-        {
-          name: "twitter:card",
-          content: "summary_large_image",
-        },
+        }
       ]}
     />
   );
