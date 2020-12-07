@@ -30,11 +30,6 @@ npm install -g gatsby-cli
 
 2. Clone the repository and go into the working directory
 
-```console
-git clone https://github.com/AmruthPillai/ResumeOnTheWeb-Gatsby.git
-cd ResumeOnTheWeb-Gatsby
-```
-
 3. Then, just run this command to install the necessary dependencies. It might take a while for it to finish, so keep an episode of 'Friends' running, just in case.
 
 ```console
