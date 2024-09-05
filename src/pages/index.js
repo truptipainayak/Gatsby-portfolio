@@ -25,11 +25,11 @@ const IndexPage = () => {
       <div className={`container ${styles.layout}`}>
         <Hero />
         <AboutMe />
+        <Skills />
         <div className={styles.workEducation}>
           <Work />
           <Education />
         </div>
-        <Skills />
         <Projects />
         <Languages />
         <div className={styles.achievementsCertificationPhilanthropy}>

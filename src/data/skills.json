@@ -2,17 +2,17 @@
   {
     "icon": "../images/skills/web.png",
     "name": "Web Design & Development",
-    "tech": "HTML/CSS/JavaScript/Bootstrap/Pattern Lab"
+    "tech": "HTML/CSS/JavaScript/Bootstrap/Pattern Lab/Profiling/Caching/Database Optimization"
   },
   {
     "icon": "../images/skills/angular.png",
     "name": "Frontend JS Frameworks/libraries",
-    "tech": "AngularJS/React/Redux/jQuery"
+    "tech": "AngularJS/React/Redux/jQuery/Vue.js/Jest"
   },
   {
     "icon": "../images/skills/nodejs.png",
     "name": "Backend Javascript Frameworks",
-    "tech": "Node.js/Express.js/Mongoose"
+    "tech": "Node.js/Express.js/Mongoose/REST APIs/GraphQL/PHP"
   },
   {
     "icon": "../images/skills/database.png",
@@ -27,16 +27,31 @@
   {
     "icon": "../images/skills/programming.png",
     "name": "Programming",
-    "tech": "PHP/C++"
+    "tech": "JavaScript/TypeScript/PHP/C/C++"
   },
   {
     "icon": "../images/skills/photography.png",
     "name": "UI/UX Design and graphic design",
-    "tech": "Adobe XD/Adobe Photoshop/Adobe Illustrator"
+    "tech": "Adobe XD/Adobe Photoshop/Adobe Illustrator/GIMP"
   },
   {
     "icon": "../images/skills/git.png",
     "name": "Tools",
-    "tech": "Git/Heroku/Docker/Composer"
+    "tech": "Git/Heroku/Docker/Composer/Kafka/ArgoCD/CI/CD/Azure"
+  },
+  {
+    "icon": "../images/skills/archPattern.png",
+    "name": "Architectural Patterns",
+    "tech": "Microservices/Serverless/Event-Driven"
+  },
+  {
+    "icon": "../images/skills/perfopt.png",
+    "name": "Performance Optimization",
+    "tech": "Profiling/Caching/Database Optimization"
+  },
+  {
+    "icon": "../images/skills/security.png",
+    "name": "Security",
+    "tech": "OAuth/OIDC (Azure SSO)/Data Encryption"
   }
 ]

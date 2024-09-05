@@ -12,7 +12,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://amruthpillai.com`,
+        siteUrl: `https://truptinayak.com`,
       },
     },
     {
@@ -25,8 +25,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-robots-txt`,
       options: {
-        host: `https://amruthpillai.com`,
-        sitemap: `https://amruthpillai.com/sitemap.xml`,
+        host: `https://truptinayak.com`,
+        sitemap: `https://truptinayak.com/sitemap.xml`,
         policy: [{ userAgent: `*`, allow: `/` }],
       },
     },
@@ -73,7 +73,7 @@ module.exports = {
     {
       resolve: `gatsby-source-dev`,
       options: {
-        username: `amruthpillai`,
+        username: `truptinayak`,
       },
     },
     `gatsby-transformer-remark`,
