@@ -2,13 +2,15 @@
 id: "about-me"
 ---
 
-Hey there!
+Welcome!
 
-I'm Trupti Nayak, and as you might have already read, I'm a full stack javascript developer, designer and photographer. This website was made to showcase all of what I can do and plan to do. 
+I’m Trupti Nayak—a full-stack JavaScript developer, designer, and photographer. This website is a reflection of my journey, showcasing my diverse skills and passions.
 
-I got into design because I consider myself a pseudo-perfectionist, if that's even a word? As in, I hate to see things 'not look good'. So I set out on a journey to make products that people use that 'look great', and I'm forever on that path.
+I ventured into design driven by a keen eye for aesthetics. I’m a self-proclaimed perfectionist, always striving to ensure that everything I create not only functions well but also looks exceptional. My goal is to craft products that are as beautiful as they are functional.
 
-I got into development because computers have always fascinated me. The things we use regularly, like Facebook or Amazon, was no less than magic to me and that's where my quest to invent began.
+My fascination with technology led me to development. The digital experiences we often take for granted—like seemed like magic to me, igniting my curiosity and fueling my quest to innovate.
 
-I created this website so I could showcase some of my work and through this process, make it easier for you to connect with me. If you like what you see, get in touch with me. Send me an email at truptipai95@gmail.com. I would love to hear from you!
+This website is designed to give you a glimpse into my work and make it easy for us to connect. If my work resonates with you, I’d love to hear from you! Feel free to drop me an email at truptipai95@gmail.com.
+
+For a more streamlined view of my information, you can download a PDF version of my portfolio here:
 
